@@ -13,6 +13,8 @@ public class MovementConfig implements ConfigData {
 
 	public boolean alwaysOn = false;
 
+	public boolean replacesBlindness = false;
+
 	public float blurRadius = 1.0F;
 
 	public float trail = 0.95F;
